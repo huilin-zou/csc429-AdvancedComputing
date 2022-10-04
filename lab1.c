@@ -10,3 +10,5 @@ printf("Hello World!\n");
 
 MPI_Finalize();
 }
+
+}
